@@ -1,0 +1,18 @@
+Connection hml does not have permission to get DDL from "Other User" BINS for CD_CNTX_IFMC.  Connection must have SELECT_CATALOG_ROLE or DBA role.  
+Copy skipped for this object. 
+Connection hml does not have permission to get DDL from "Other User" BINS for NU_SLCT_MNUT_ACRG.  Connection must have SELECT_CATALOG_ROLE or DBA role.  
+Copy skipped for this object. 
+Connection hml does not have permission to get DDL from "Other User" BINS for SQCTMR_ARQV_MNUT_ACRG.  Connection must have SELECT_CATALOG_ROLE or DBA role.  
+Copy skipped for this object. 
+
+
+
+
+CREATE SEQUENCE BINS.SQCTMR_ARQV_MNUT_ACRG INCREMENT BY 1 MAXVALUE 9999999999999999999999999999 MINVALUE 1 CYCLE CACHE 20
+Relatório de erros -
+Erro de SQL: ORA-01031: privilégios insuficientes
+01031. 00000 -  "insufficient privileges"
+*Cause:    An attempt was made to perform a database operation without
+           the necessary privileges.
+*Action:   Ask your database administrator or designated security
+           administrator to grant you the necessary privileges
